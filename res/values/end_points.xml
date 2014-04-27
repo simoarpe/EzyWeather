@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="end_point">api.openweathermap.org</string>
+    <string name="get_weather_by_name">/data/2.5/weather?q=%1$s</string>
+    <string name="get_weather_by_id">/data/2.5/weather?id=%1$s</string>
+    
+
+</resources>
